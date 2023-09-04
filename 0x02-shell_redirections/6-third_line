@@ -1,2 +1,2 @@
 #!/bin/bash
-getline.sh iacta 3
+head -n3 iacta \| tail -n1
